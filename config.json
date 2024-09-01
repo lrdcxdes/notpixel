@@ -2,5 +2,5 @@
   "start_x": 100,
   "start_y": 899,
   "image": "https://raw.githubusercontent.com/lrdcxdes/notpixel/main/fsociety-x.png",
-  "mode": "random"
+  "mode": "smart_random"
 }
